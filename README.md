@@ -1,3 +1,3 @@
 # gettile
 
-Amazon AWS Lambda compatile page get title service.
+Amazon AWS Lambda compatible page get title service.
