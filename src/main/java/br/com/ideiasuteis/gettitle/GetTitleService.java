@@ -57,10 +57,12 @@ final class GetTitleService {
     static final class Request {
         private String url;
 
+        @SuppressWarnings("unused")
         String getUrl() {
             return url;
         }
 
+        @SuppressWarnings("unused")
         public void setUrl(String url) {
             this.url = url;
         }
@@ -78,10 +80,12 @@ final class GetTitleService {
             this.title = title;
         }
 
+        @SuppressWarnings("unused")
         public String getTitle() {
             return title;
         }
 
+        @SuppressWarnings("unused")
         public void setTitle(String title) {
             this.title = title;
         }

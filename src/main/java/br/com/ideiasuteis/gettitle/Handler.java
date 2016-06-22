@@ -29,6 +29,7 @@ import com.amazonaws.services.lambda.runtime.Context;
  *
  * @author claudemiro
  */
+@SuppressWarnings("unused")
 public class Handler {
     /**
      * handle receives an event from AWS lambda service and handle the request.
